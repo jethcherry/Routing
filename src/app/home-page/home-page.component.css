@@ -1,0 +1,10 @@
+.container{
+    width: 140vw;
+    height: 100vh;
+    padding: 30px;
+}
+.container img
+{
+    width: 100%;
+    height: 100%;
+}
